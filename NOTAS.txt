@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=a-4923Uyu54 01:20:00 min controladores
+https://roadmap.sh/frontend
+php artisan serve
+php artisan make:model tareas -m (modelo más migración)
+php artisan migrate (crea migraciones)
+php artisan make:controller tareasController
